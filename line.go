@@ -1,4 +1,4 @@
-package asciibytes
+package ascii
 
 // GetLine returns a line including the last '\n' byte.
 func GetLine(buf []byte) []byte {

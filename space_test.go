@@ -1,4 +1,4 @@
-package asciibytes
+package ascii
 
 import "testing"
 

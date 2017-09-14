@@ -1,4 +1,4 @@
-package asciibytes
+package ascii
 
 var asciiSpace = [256]bool{'\t': true, '\n': true, '\v': true, '\f': true, '\r': true, ' ': true}
 

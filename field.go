@@ -1,4 +1,4 @@
-package asciibytes
+package ascii
 
 // NextField first skips spaces and returns the start and the end index of the field in buf.
 func NextField(buf []byte) (start, end int) {
